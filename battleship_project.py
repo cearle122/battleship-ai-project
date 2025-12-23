@@ -1,5 +1,3 @@
-# B351 Group 16 Project
-
 import numpy as np
 import heapq
 import time
@@ -500,3 +498,4 @@ elif game_over(opponent_ships):
     print("Player wins!")
 
  '''
+
